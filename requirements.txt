@@ -1,4 +1,5 @@
 ultralytics
 cvzone
-opencv-python 
+opencv-python
 numpy
+deep-sort-realtime
